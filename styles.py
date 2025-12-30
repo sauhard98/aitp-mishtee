@@ -1,3 +1,4 @@
+mishtee_css = """
 /* Global Container & Background */
 body, .gradio-container {
     background-color: #FAF9F6 !important; /* Off-White */
@@ -74,3 +75,4 @@ tbody td {
     box-shadow: none !important;
     border-radius: 0px !important;
 }
+"""
