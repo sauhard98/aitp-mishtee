@@ -1,0 +1,4 @@
+Group,Output
+Slogans,"• ""Roots of Purity, Touch of Gold.""• ""Indulgence, Purified.""• ""Ancient Wellness, Modern Magic."""
+Our Story,"""Born from the warmth of terracotta traditions and crafted with the purity of A2 milk, MishTee-Magic redefines the art of Indian confectionery. We blend organic, wholesome ingredients with guilt-free luxury, ensuring every sweet is a golden moment of health and heritage."""
+Collection Names,• The Gilded Saffron Edit (Premium Kesar & Metallic finish sweets)• The Earthy Lite Series (Low-sugar & Stevia-based options)• The A2 Creamery (Milk-heavy classics like Kalakand/Peda)• The Terracotta Nut-Crunch (Dry fruit & roasted seed varieties)
